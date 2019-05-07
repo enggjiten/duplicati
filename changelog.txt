@@ -1,5 +1,9 @@
 2019-03-28 - 2.0.4.16_canary_2019-03-28
 ==========
+* Change the port numbers
+
+2019-03-28 - 2.0.4.16_canary_2019-03-28
+==========
 * Fixed an issue with Sia authentication, thanks @Ajedi32
 * Improved documentation, thanks @kesava-wow
 * Improved code quality, thanks @warwickmm
