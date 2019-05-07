@@ -31,7 +31,7 @@ namespace Duplicati.GUI.TrayIcon
         private const string DETACHED_PROCESS = "detached-process";
         private const string BROWSER_COMMAND_OPTION = "browser-command";
 
-        private const string DEFAULT_HOSTURL = "http://localhost:8200";
+        private const string DEFAULT_HOSTURL = "http://localhost:2272";
         
         private static string _browser_command = null;
         private static bool disableTrayIconLogin = false;
